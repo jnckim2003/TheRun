@@ -1,12 +1,14 @@
 # TheRun
 2D platform endless running game
 
-## Note
-There's only an executable file for this game
-(I couldn't find the original .gmx file)
+### Note
+Created with GameMaker Studio
 
-## Author
+### Download Link
+https://drive.google.com/open?id=1IwzKY3-hnHly2zmubDtIe7fkbU3VHJAP
+
+### Author
 Janice Kim
 
-## Art
+### Art
 Mellisa Garcia
